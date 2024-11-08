@@ -13,6 +13,6 @@ Lifelong Learner, currently studying in Telkom University.
 <p>
     - :keyboard: I’m currently learning Information System. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - 📧: How to reach me: bentrg in Discord</br>
+    - 📧: How to reach me: bentrg on Discord</br>
     - :cloud: Pronouns: He/Him. </br>
 
