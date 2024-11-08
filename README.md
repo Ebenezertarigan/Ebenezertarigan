@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+# <summary><strong>Hi there :wave: , I'm Benn!</strong></summary>
+Lifelong Learner, currently studying in Telkom University.
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
@@ -12,11 +11,10 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently Information System. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - 📧: How to reach me: bentrg in Discord</br>
+    - :cloud: Pronouns: He/Him. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
@@ -32,10 +30,6 @@ Lifelong Learner, currently working as budagh kompeni.
 Ubah link media sosial diatas dengan link media sosial kalian.
 
 Untuk Tools, kalian juga dapat menambahkan:
-
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
