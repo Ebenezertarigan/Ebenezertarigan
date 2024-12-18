@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # <summary><strong>, I'm Benn!</strong></summary>
-currently studying in Telkom University.
+currently studying at Telkom University.
+✉️:bentrg on discord
 </p>
 
 # 💻 Tech Stack:
