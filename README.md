@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Eben Ezer Tarigan and I'm a information System from Bandung<h2>
+<h2 align="left">Hi 👋! My name is Eben Ezer Tarigan and I'm an information System Students from Bandung<h2>
 
 ###
 
