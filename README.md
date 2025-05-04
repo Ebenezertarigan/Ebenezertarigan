@@ -8,7 +8,6 @@
 
 ###
 
-<h5 align="left">Tech that i use</h5>
 
 ###
 
