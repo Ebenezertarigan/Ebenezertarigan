@@ -18,10 +18,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying Information Systems.
-- 🌱 Always excited to learn new technologies, especially in web development, data, and automation.
-- 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-- 🧩 I love collaborating on open source projects and learning from the tech community.
+- Currently studying Information Systems.
+- Always excited to learn new technologies, especially in web development, data, and automation.
+- I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+- I love collaborating on open source projects and learning from the tech community.
 
 ---
 
@@ -39,31 +39,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ebenezertarigan&show_icons=true&theme=dracula&hide_border=false" alt="Eben's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ebenezertarigan&layout=compact&theme=dracula&hide_border=false" alt="Eben's Top Languages" />
-</div>
-
----
-
-### 🌱 Fun Facts
-
-- 🏞️ I love hiking and exploring new places in my free time.
+### Fun Facts
 - 📚 I enjoy reading about technology, psychology, and personal development.
 - ☕ I believe a cup of coffee can solve (almost) any problem.
 
----
+--- 
+### Get In Touch 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ebenezertarigan/count.svg?" alt="Profile Counter" />
-</div>
+🌐 My Personal Website : https://bentarigan.my.id/
 
 ---
 
 <p align="center">
   <b>Let's connect!</b> <br>
-  <a href="mailto:ebenezertarigan@gmail.com">Email</a> |
+  <a href="mailto:ebentrgan@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/ebenezertarigan/">LinkedIn</a>
 </p>
