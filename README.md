@@ -6,11 +6,11 @@
 
 <h2 align="left">Hi there 👋, I'm Eben Ezer Tarigan!</h2>
 
-<p align="center">
+<p align="left">
   <b>💻 Information Systems Student | 🚀 Tech Enthusiast | 🎯 Lifelong Learner</b>
 </p>
 
-<p align="center">
+<p align="left">
   Bandung, Indonesia
 </p>
 
