@@ -18,8 +18,7 @@ Discord : @baksokerendem
 
 ---
 
-<p align="center">
-  <b>Let's connect!</b> <br>
-  <a href="mailto:ebentrgan@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/ebenezertarigan/">LinkedIn</a>
-</p>
+**Website** → [bentarigan.my.id](https://bentarigan.my.id)  
+**Email** → [ebentrgan@gmail.com](mailto:ebentrgan@gmail.com)  
+**LinkedIn** → [ebenezertarigan](https://www.linkedin.com/in/ebenezertarigan/)  
+**Discord** → @baksokerendem
