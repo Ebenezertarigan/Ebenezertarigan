@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="img/chill-coding.gif" alt="Chill Coding" />
-</div>
-
-
 <h2 align="left">Hi there 👋, I'm Eben Ezer Tarigan!</h2>
 
 ### 👨‍💻 About Me
