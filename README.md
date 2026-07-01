@@ -14,6 +14,6 @@ Discord : @baksokerendem
 ---
 
 **Website** → [bentarigan.my.id](https://bentarigan.my.id)  
-**Email** → [ebentrgan@gmail.com](mailto:ebentrgan@gmail.com)  
+**Email** → [hello@bentarigan.my.id](mailto:hello@bentarigan.my.id)  
 **LinkedIn** → [ebenezertarigan](https://www.linkedin.com/in/ebenezertarigan/)  
 **Discord** → @baksokerendem
